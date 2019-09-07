@@ -1,9 +1,10 @@
 {
-  "version": "1.0.11",
-  "whatsnew": "v1.0.11: Generic improvements",
+  "version": "1.0.12",
+  "whatsnew": "v1.0.12: Dix D minor 9 chord. Thanks to Renato Veiga!",
   "author": "Alberto De Bortoli",
   "designer": "Dario Stefanutto",
   "contributor": "Pierluigi De Ioris",
+  "contributors": ["Pierluigi De Ioris"],
   "mail": "iharmonyapp@gmail.com",
   "viewControllerTitles": [
     "Scales",
