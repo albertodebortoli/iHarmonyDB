@@ -1,0 +1,114 @@
+{
+  "groupOrder": [
+    "group_harmonization_major",
+    "group_harmonization_natural_minor",
+    "group_harmonization_harmonic_minor",
+    "group_harmonization_melodic_minor"
+  ],
+  "scale_harmonizations": {
+    "scaleHarmonization_majorScale3Tones": {
+      "group": "group_harmonization_major",
+      "inclination": "major",
+      "harmonizations": [
+        "harmonization_1_major",
+        "harmonization_2maj_minor",
+        "harmonization_3maj_minor",
+        "harmonization_4_major",
+        "harmonization_5_major",
+        "harmonization_6maj_minor",
+        "harmonization_7maj_diminished"
+      ]
+    },
+    "scaleHarmonization_majorScale4Tones": {
+      "group": "group_harmonization_major",
+      "inclination": "major",
+      "harmonizations": [
+        "harmonization_1_major7plus",
+        "harmonization_2maj_minor7",
+        "harmonization_3maj_minor7",
+        "harmonization_4_major7plus",
+        "harmonization_5_major7",
+        "harmonization_6maj_minor7",
+        "harmonization_7maj_minor7dim5"
+      ]
+    },
+    "scaleHarmonization_minorScale3Tones": {
+      "group": "group_harmonization_natural_minor",
+      "inclination": "minor",
+      "harmonizations": [
+        "harmonization_1_minor",
+        "harmonization_2maj_diminished",
+        "harmonization_3min_major",
+        "harmonization_4_minor",
+        "harmonization_5_minor",
+        "harmonization_6min_major",
+        "harmonization_7min_major"
+      ]
+    },
+    "scaleHarmonization_minorScale4Tones": {
+      "group": "group_harmonization_natural_minor",
+      "inclination": "minor",
+      "harmonizations": [
+        "harmonization_1_minor7",
+        "harmonization_2maj_minor7dim5",
+        "harmonization_3min_major7plus",
+        "harmonization_4_minor7",
+        "harmonization_5_minor7",
+        "harmonization_6min_major7plus",
+        "harmonization_7min_major7"
+      ]
+    },
+    "scaleHarmonization_harmonicMinorScale3Tones": {
+      "group": "group_harmonization_harmonic_minor",
+      "inclination": "minor",
+      "harmonizations": [
+        "harmonization_1_minor",
+        "harmonization_2maj_diminished",
+        "harmonization_3min_augmented",
+        "harmonization_4_minor",
+        "harmonization_5_major",
+        "harmonization_6min_major",
+        "harmonization_7maj_diminished"
+      ]
+    },
+    "scaleHarmonization_harmonicMinorScale4Tones": {
+      "group": "group_harmonization_harmonic_minor",
+      "inclination": "minor",
+      "harmonizations": [
+        "harmonization_1_minor7plus",
+        "harmonization_2maj_minor7dim5",
+        "harmonization_3min_major7plus5sharp",
+        "harmonization_4_minor7",
+        "harmonization_5_major7",
+        "harmonization_6min_major7plus",
+        "harmonization_7maj_diminished7"
+      ]
+    },
+    "scaleHarmonization_melodicMinorScale3Tones": {
+      "group": "group_harmonization_melodic_minor",
+      "inclination": "minor",
+      "harmonizations": [
+        "harmonization_1_minor",
+        "harmonization_2maj_minor",
+        "harmonization_3min_augmented",
+        "harmonization_4_major",
+        "harmonization_5_major",
+        "harmonization_6maj_diminished",
+        "harmonization_7maj_diminished"
+      ]
+    },
+    "scaleHarmonization_melodicMinorScale4Tones": {
+      "group": "group_harmonization_melodic_minor",
+      "inclination": "minor",
+      "harmonizations": [
+        "harmonization_1_minor7plus",
+        "harmonization_2maj_minor7",
+        "harmonization_3min_major7plus5sharp",
+        "harmonization_4_major7",
+        "harmonization_5_major7",
+        "harmonization_6maj_minor7dim5",
+        "harmonization_7maj_minor7dim5"
+      ]
+    }
+  }
+}

@@ -1,0 +1,734 @@
+{
+  "groupOrder": [
+    "group_scales_common",
+    "group_scales_majorModes",
+    "group_scales_naturalMinorModes",
+    "group_scales_harmonicMinorModes",
+    "group_scales_melodicMinorModes",
+    "group_scales_pentatonic/blues",
+    "group_scales_bebop",
+    "group_scales_altered",
+    "group_scales_folkloristic"
+  ],
+  "scales": {
+    "scale_major": {
+      "group": "group_scales_common",
+      "isMode": false,
+      "degreeRelativeToMain": null,
+      "inclination": "major",
+      "intervals": [
+        "1",
+        "2maj",
+        "3maj",
+        "4",
+        "5",
+        "6maj",
+        "7maj"
+      ]
+    },
+    "scale_minor": {
+      "group": "group_scales_common",
+      "isMode": false,
+      "degreeRelativeToMain": null,
+      "inclination": "minor",
+      "intervals": [
+        "1",
+        "2maj",
+        "3min",
+        "4",
+        "5",
+        "6min",
+        "7min"
+      ]
+    },
+    "scale_ionian": {
+      "group": "group_scales_majorModes",
+      "isMode": true,
+      "degreeRelativeToMain": 1,
+      "inclination": "major",
+      "intervals": [
+        "1",
+        "2maj",
+        "3maj",
+        "4",
+        "5",
+        "6maj",
+        "7maj"
+      ]
+    },
+    "scale_dorian": {
+      "group": "group_scales_majorModes",
+      "isMode": true,
+      "degreeRelativeToMain": 2,
+      "inclination": "minor",
+      "intervals": [
+        "1",
+        "2maj",
+        "3min",
+        "4",
+        "5",
+        "6maj",
+        "7min"
+      ]
+    },
+    "scale_phrygian": {
+      "group": "group_scales_majorModes",
+      "isMode": true,
+      "degreeRelativeToMain": 3,
+      "inclination": "minor",
+      "intervals": [
+        "1",
+        "2min",
+        "3min",
+        "4",
+        "5",
+        "6min",
+        "7min"
+      ]
+    },
+    "scale_lydian": {
+      "group": "group_scales_majorModes",
+      "isMode": true,
+      "degreeRelativeToMain": 4,
+      "inclination": "major",
+      "intervals": [
+        "1",
+        "2maj",
+        "3maj",
+        "4aug",
+        "5",
+        "6maj",
+        "7maj"
+      ]
+    },
+    "scale_mixolydian": {
+      "group": "group_scales_majorModes",
+      "isMode": true,
+      "degreeRelativeToMain": 5,
+      "inclination": "major",
+      "intervals": [
+        "1",
+        "2maj",
+        "3maj",
+        "4",
+        "5",
+        "6maj",
+        "7min"
+      ]
+    },
+    "scale_aeolian": {
+      "group": "group_scales_majorModes",
+      "isMode": true,
+      "degreeRelativeToMain": 6,
+      "inclination": "minor",
+      "intervals": [
+        "1",
+        "2maj",
+        "3min",
+        "4",
+        "5",
+        "6min",
+        "7min"
+      ]
+    },
+    "scale_locrian": {
+      "group": "group_scales_majorModes",
+      "isMode": true,
+      "degreeRelativeToMain": 7,
+      "inclination": "minor",
+      "intervals": [
+        "1",
+        "2min",
+        "3min",
+        "4",
+        "5dim",
+        "6min",
+        "7min"
+      ]
+    },
+    "scale_aeolian_m": {
+      "group": "group_scales_naturalMinorModes",
+      "isMode": true,
+      "degreeRelativeToMain": 1,
+      "inclination": "minor",
+      "intervals": [
+        "1",
+        "2maj",
+        "3min",
+        "4",
+        "5",
+        "6min",
+        "7min"
+      ]
+    },
+    "scale_locrian_m": {
+      "group": "group_scales_naturalMinorModes",
+      "isMode": true,
+      "degreeRelativeToMain": 2,
+      "inclination": "minor",
+      "intervals": [
+        "1",
+        "2min",
+        "3min",
+        "4",
+        "5dim",
+        "6min",
+        "7min"
+      ]
+    },
+    "scale_ionian_m": {
+      "group": "group_scales_naturalMinorModes",
+      "isMode": true,
+      "degreeRelativeToMain": 3,
+      "inclination": "major",
+      "intervals": [
+        "1",
+        "2maj",
+        "3maj",
+        "4",
+        "5",
+        "6maj",
+        "7maj"
+      ]
+    },
+    "scale_dorian_m": {
+      "group": "group_scales_naturalMinorModes",
+      "isMode": true,
+      "degreeRelativeToMain": 4,
+      "inclination": "minor",
+      "intervals": [
+        "1",
+        "2maj",
+        "3min",
+        "4",
+        "5",
+        "6maj",
+        "7min"
+      ]
+    },
+    "scale_phrygian_m": {
+      "group": "group_scales_naturalMinorModes",
+      "isMode": true,
+      "degreeRelativeToMain": 5,
+      "inclination": "minor",
+      "intervals": [
+        "1",
+        "2min",
+        "3min",
+        "4",
+        "5",
+        "6min",
+        "7min"
+      ]
+    },
+    "scale_lydian_m": {
+      "group": "group_scales_naturalMinorModes",
+      "isMode": true,
+      "degreeRelativeToMain": 6,
+      "inclination": "major",
+      "intervals": [
+        "1",
+        "2maj",
+        "3maj",
+        "4aug",
+        "5",
+        "6maj",
+        "7maj"
+      ]
+    },
+    "scale_mixolydian_m": {
+      "group": "group_scales_naturalMinorModes",
+      "isMode": true,
+      "degreeRelativeToMain": 7,
+      "inclination": "major",
+      "intervals": [
+        "1",
+        "2maj",
+        "3maj",
+        "4",
+        "5",
+        "6maj",
+        "7min"
+      ]
+    },
+    "scale_harmonicMinor": {
+      "group": "group_scales_harmonicMinorModes",
+      "isMode": true,
+      "degreeRelativeToMain": 1,
+      "inclination": "minor",
+      "intervals": [
+        "1",
+        "2maj",
+        "3min",
+        "4",
+        "5",
+        "6min",
+        "7maj"
+      ]
+    },
+    "scale_locrian6sharp": {
+      "group": "group_scales_harmonicMinorModes",
+      "isMode": true,
+      "degreeRelativeToMain": 2,
+      "inclination": "minor",
+      "intervals": [
+        "1",
+        "2min",
+        "3min",
+        "4",
+        "5dim",
+        "6maj",
+        "7min"
+      ]
+    },
+    "scale_ionian5sharp": {
+      "group": "group_scales_harmonicMinorModes",
+      "isMode": true,
+      "degreeRelativeToMain": 3,
+      "inclination": "major",
+      "intervals": [
+        "1",
+        "2maj",
+        "3maj",
+        "4",
+        "5aug",
+        "6maj",
+        "7maj"
+      ]
+    },
+    "scale_dorian4sharp": {
+      "group": "group_scales_harmonicMinorModes",
+      "isMode": true,
+      "degreeRelativeToMain": 4,
+      "inclination": "minor",
+      "intervals": [
+        "1",
+        "2maj",
+        "3min",
+        "4aug",
+        "5",
+        "6maj",
+        "7min"
+      ]
+    },
+    "scale_phrygian3sharp": {
+      "group": "group_scales_harmonicMinorModes",
+      "isMode": true,
+      "degreeRelativeToMain": 5,
+      "inclination": "minor",
+      "intervals": [
+        "1",
+        "2min",
+        "3maj",
+        "4",
+        "5",
+        "6min",
+        "7min"
+      ]
+    },
+    "scale_lydian2sharp": {
+      "group": "group_scales_harmonicMinorModes",
+      "isMode": true,
+      "degreeRelativeToMain": 6,
+      "inclination": "major",
+      "intervals": [
+        "1",
+        "2aug",
+        "3maj",
+        "4aug",
+        "5",
+        "6maj",
+        "7maj"
+      ]
+    },
+    "scale_superlocriandim": {
+      "group": "group_scales_harmonicMinorModes",
+      "isMode": true,
+      "degreeRelativeToMain": 7,
+      "inclination": "minor",
+      "intervals": [
+        "1",
+        "2min",
+        "3min",
+        "4dim",
+        "5dim",
+        "6min",
+        "7dim"
+      ]
+    },
+    "scale_melodicMinor": {
+      "group": "group_scales_melodicMinorModes",
+      "isMode": true,
+      "degreeRelativeToMain": 1,
+      "inclination": "minor",
+      "intervals": [
+        "1",
+        "2maj",
+        "3min",
+        "4",
+        "5",
+        "6maj",
+        "7maj"
+      ]
+    },
+    "scale_dorian2flat": {
+      "group": "group_scales_melodicMinorModes",
+      "isMode": true,
+      "degreeRelativeToMain": 2,
+      "inclination": "minor",
+      "intervals": [
+        "1",
+        "2min",
+        "3min",
+        "4",
+        "5",
+        "6maj",
+        "7min"
+      ]
+    },
+    "scale_lydian5sharp": {
+      "group": "group_scales_melodicMinorModes",
+      "isMode": true,
+      "degreeRelativeToMain": 3,
+      "inclination": "major",
+      "intervals": [
+        "1",
+        "2maj",
+        "3maj",
+        "4aug",
+        "5aug",
+        "6maj",
+        "7maj"
+      ]
+    },
+    "scale_lydian7flat": {
+      "group": "group_scales_melodicMinorModes",
+      "isMode": true,
+      "degreeRelativeToMain": 4,
+      "inclination": "major",
+      "intervals": [
+        "1",
+        "2maj",
+        "3maj",
+        "4aug",
+        "5",
+        "6maj",
+        "7min"
+      ]
+    },
+    "scale_mixolydian6flat": {
+      "group": "group_scales_melodicMinorModes",
+      "isMode": true,
+      "degreeRelativeToMain": 5,
+      "inclination": "major",
+      "intervals": [
+        "1",
+        "2maj",
+        "3maj",
+        "4",
+        "5",
+        "6min",
+        "7min"
+      ]
+    },
+    "scale_locrian2sharp": {
+      "group": "group_scales_melodicMinorModes",
+      "isMode": true,
+      "degreeRelativeToMain": 6,
+      "inclination": "minor",
+      "intervals": [
+        "1",
+        "2maj",
+        "3min",
+        "4",
+        "5dim",
+        "6min",
+        "7min"
+      ]
+    },
+    "scale_superlocrian": {
+      "group": "group_scales_melodicMinorModes",
+      "isMode": true,
+      "degreeRelativeToMain": 7,
+      "inclination": "minor",
+      "intervals": [
+        "1",
+        "2min",
+        "3min",
+        "4dim",
+        "5dim",
+        "6min",
+        "7min"
+      ]
+    },
+    "scale_pentatonicMajor": {
+      "group": "group_scales_pentatonic/blues",
+      "isMode": false,
+      "degreeRelativeToMain": null,
+      "inclination": "major",
+      "intervals": [
+        "1",
+        "2maj",
+        "3maj",
+        "5",
+        "6maj"
+      ]
+    },
+    "scale_pentatonicMinor": {
+      "group": "group_scales_pentatonic/blues",
+      "isMode": false,
+      "degreeRelativeToMain": null,
+      "inclination": "minor",
+      "intervals": [
+        "1",
+        "3min",
+        "4",
+        "5",
+        "7min"
+      ]
+    },
+    "scale_bluesMajor": {
+      "group": "group_scales_pentatonic/blues",
+      "isMode": false,
+      "degreeRelativeToMain": null,
+      "inclination": "major",
+      "intervals": [
+        "1",
+        "2maj",
+        "3min",
+        "3maj",
+        "5",
+        "6maj"
+      ]
+    },
+    "scale_bluesMinor": {
+      "group": "group_scales_pentatonic/blues",
+      "isMode": false,
+      "degreeRelativeToMain": null,
+      "inclination": "minor",
+      "intervals": [
+        "1",
+        "3min",
+        "4",
+        "5dim",
+        "5",
+        "7min"
+      ]
+    },
+    "scale_bebopMajor": {
+      "group": "group_scales_bebop",
+      "isMode": false,
+      "degreeRelativeToMain": null,
+      "inclination": null,
+      "intervals": [
+        "1",
+        "2maj",
+        "3maj",
+        "4",
+        "5",
+        "5aug",
+        "6maj",
+        "7maj"
+      ]
+    },
+    "scale_bebopMinor": {
+      "group": "group_scales_bebop",
+      "isMode": false,
+      "degreeRelativeToMain": null,
+      "inclination": null,
+      "intervals": [
+        "1",
+        "2maj",
+        "3min",
+        "4",
+        "5",
+        "5aug",
+        "6maj",
+        "7maj"
+      ]
+    },
+    "scale_bebopDorian": {
+      "group": "group_scales_bebop",
+      "isMode": false,
+      "degreeRelativeToMain": null,
+      "inclination": null,
+      "intervals": [
+        "1",
+        "2maj",
+        "3min",
+        "3maj",
+        "4",
+        "5",
+        "5aug",
+        "6maj",
+        "7min"
+      ]
+    },
+    "scale_bebopDominant": {
+      "group": "group_scales_bebop",
+      "isMode": false,
+      "degreeRelativeToMain": null,
+      "inclination": null,
+      "intervals": [
+        "1",
+        "2maj",
+        "3maj",
+        "4",
+        "5",
+        "6maj",
+        "7min",
+        "7maj"
+      ]
+    },
+    "scale_augmented": {
+      "group": "group_scales_altered",
+      "isMode": false,
+      "degreeRelativeToMain": null,
+      "inclination": null,
+      "intervals": [
+        "1",
+        "2aug",
+        "3maj",
+        "5",
+        "5aug",
+        "7maj"
+      ]
+    },
+    "scale_diminishedWholeHalf": {
+      "group": "group_scales_altered",
+      "isMode": false,
+      "degreeRelativeToMain": null,
+      "inclination": null,
+      "intervals": [
+        "1",
+        "2maj",
+        "3min",
+        "4",
+        "5dim",
+        "5aug",
+        "6maj",
+        "7maj"
+      ]
+    },
+    "scale_diminishedHalfWhole": {
+      "group": "group_scales_altered",
+      "isMode": false,
+      "degreeRelativeToMain": null,
+      "inclination": null,
+      "intervals": [
+        "1",
+        "2min",
+        "3min",
+        "3maj",
+        "4aug",
+        "5",
+        "6maj",
+        "7min"
+      ]
+    },
+    "scale_wholetone": {
+      "group": "group_scales_altered",
+      "isMode": false,
+      "degreeRelativeToMain": null,
+      "inclination": null,
+      "intervals": [
+        "1",
+        "2maj",
+        "3maj",
+        "4aug",
+        "5aug",
+        "6aug"
+      ]
+    },
+    "scale_enigmatic": {
+      "group": "group_scales_altered",
+      "isMode": false,
+      "degreeRelativeToMain": null,
+      "inclination": null,
+      "intervals": [
+        "1",
+        "2min",
+        "3maj",
+        "4aug",
+        "5aug",
+        "6aug",
+        "7maj"
+      ]
+    },
+    "scale_hindu": {
+      "group": "group_scales_folkloristic",
+      "isMode": false,
+      "degreeRelativeToMain": null,
+      "inclination": null,
+      "intervals": [
+        "1",
+        "2maj",
+        "3maj",
+        "4aug",
+        "5",
+        "6min",
+        "7maj"
+      ]
+    },
+    "scale_neapolitanMajor": {
+      "group": "group_scales_folkloristic",
+      "isMode": false,
+      "degreeRelativeToMain": null,
+      "inclination": null,
+      "intervals": [
+        "1",
+        "2min",
+        "3min",
+        "4",
+        "5",
+        "6maj",
+        "7maj"
+      ]
+    },
+    "scale_neapolitanMinor": {
+      "group": "group_scales_folkloristic",
+      "isMode": false,
+      "degreeRelativeToMain": null,
+      "inclination": null,
+      "intervals": [
+        "1",
+        "2min",
+        "3min",
+        "4",
+        "5",
+        "6min",
+        "7maj"
+      ]
+    },
+    "scale_hungarian": {
+      "group": "group_scales_folkloristic",
+      "isMode": false,
+      "degreeRelativeToMain": null,
+      "inclination": null,
+      "intervals": [
+        "1",
+        "2aug",
+        "3maj",
+        "4aug",
+        "5",
+        "6maj",
+        "7min"
+      ]
+    },
+    "scale_arabic": {
+      "group": "group_scales_folkloristic",
+      "isMode": false,
+      "degreeRelativeToMain": null,
+      "inclination": null,
+      "intervals": [
+        "1",
+        "2min",
+        "3maj",
+        "4",
+        "5",
+        "6min",
+        "7maj"
+      ]
+    }
+  }
+}

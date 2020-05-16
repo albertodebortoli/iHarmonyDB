@@ -1,0 +1,343 @@
+{
+  "groupOrder": [
+    "group_chords_major",
+    "group_chords_minor",
+    "group_chords_diminished",
+    "group_chords_augmented",
+    "group_chords_added_tone",
+    "group_chords_suspended"
+  ],
+  "chords": {
+    "chord_major": {
+      "group": "group_chords_major",
+      "abbreviation": "",
+      "intervals": [
+        "1",
+        "3maj",
+        "5"
+      ]
+    },
+    "chord_major4": {
+      "group": "group_chords_major",
+      "abbreviation": "add4",
+      "intervals": [
+        "1",
+        "3maj",
+        "5",
+        "4"
+      ]
+    },
+    "chord_major6": {
+      "group": "group_chords_major",
+      "abbreviation": "6",
+      "intervals": [
+        "1",
+        "3maj",
+        "5",
+        "6maj"
+      ]
+    },
+    "chord_major7add9": {
+      "group": "group_chords_major",
+      "abbreviation": "7add9",
+      "intervals": [
+        "1",
+        "3maj",
+        "5",
+        "7maj",
+        "2maj"
+      ]
+    },
+    "chord_major69": {
+      "group": "group_chords_major",
+      "abbreviation": "6add9",
+      "intervals": [
+        "1",
+        "3maj",
+        "5",
+        "6maj",
+        "2maj"
+      ]
+    },
+    "chord_major7": {
+      "group": "group_chords_major",
+      "abbreviation": "7",
+      "intervals": [
+        "1",
+        "3maj",
+        "5",
+        "7min"
+      ]
+    },
+    "chord_major7plus": {
+      "group": "group_chords_major",
+      "abbreviation": "Δ",
+      "intervals": [
+        "1",
+        "3maj",
+        "5",
+        "7maj"
+      ]
+    },
+    "chord_major7plus5sharp": {
+      "group": "group_chords_major",
+      "abbreviation": "Δ5♯",
+      "intervals": [
+        "1",
+        "3maj",
+        "5aug",
+        "7maj"
+      ]
+    },
+    "chord_major9": {
+      "group": "group_chords_major",
+      "abbreviation": "9",
+      "intervals": [
+        "1",
+        "3maj",
+        "5",
+        "7min",
+        "2maj"
+      ]
+    },
+    "chord_major11": {
+      "group": "group_chords_major",
+      "abbreviation": "add11",
+      "intervals": [
+        "1",
+        "3maj",
+        "5",
+        "7min",
+        "2maj",
+        "4"
+      ]
+    },
+    "chord_major13": {
+      "group": "group_chords_major",
+      "abbreviation": "add13",
+      "intervals": [
+        "1",
+        "3maj",
+        "5",
+        "7min",
+        "2maj",
+        "4",
+        "6maj"
+      ]
+    },
+    "chord_major7plus9": {
+      "group": "group_chords_major",
+      "abbreviation": "7+add9",
+      "intervals": [
+        "1",
+        "3maj",
+        "5",
+        "7maj",
+        "2maj"
+      ]
+    },
+    "chord_major7plus11": {
+      "group": "group_chords_major",
+      "abbreviation": "7+add11",
+      "intervals": [
+        "1",
+        "3maj",
+        "5",
+        "7maj",
+        "2maj",
+        "4"
+      ]
+    },
+    "chord_major7plus13": {
+      "group": "group_chords_major",
+      "abbreviation": "7+add13",
+      "intervals": [
+        "1",
+        "3maj",
+        "5",
+        "7maj",
+        "2maj",
+        "4",
+        "6maj"
+      ]
+    },
+    "chord_minor": {
+      "group": "group_chords_minor",
+      "abbreviation": "m",
+      "intervals": [
+        "1",
+        "3min",
+        "5"
+      ]
+    },
+    "chord_minor6": {
+      "group": "group_chords_minor",
+      "abbreviation": "m6",
+      "intervals": [
+        "1",
+        "3min",
+        "5",
+        "6maj"
+      ]
+    },
+    "chord_minor7": {
+      "group": "group_chords_minor",
+      "abbreviation": "m7",
+      "intervals": [
+        "1",
+        "3min",
+        "5",
+        "7min"
+      ]
+    },
+    "chord_minor7dim5": {
+      "group": "group_chords_minor",
+      "abbreviation": "m7/5♭",
+      "intervals": [
+        "1",
+        "3min",
+        "5dim",
+        "7min"
+      ]
+    },
+    "chord_minor7plus": {
+      "group": "group_chords_minor",
+      "abbreviation": "m7+",
+      "intervals": [
+        "1",
+        "3min",
+        "5",
+        "7maj"
+      ]
+    },
+    "chord_minor4": {
+      "group": "group_chords_minor",
+      "abbreviation": "m4",
+      "intervals": [
+        "1",
+        "3min",
+        "4",
+        "5"
+      ]
+    },
+    "chord_minor9": {
+      "group": "group_chords_minor",
+      "abbreviation": "m9",
+      "intervals": [
+        "1",
+        "3min",
+        "5",
+        "7min",
+        "2maj"
+      ]
+    },
+    "chord_minor11": {
+      "group": "group_chords_minor",
+      "abbreviation": "m11",
+      "intervals": [
+        "1",
+        "3min",
+        "5",
+        "7min",
+        "2maj",
+        "4"
+      ]
+    },
+    "chord_diminished": {
+      "group": "group_chords_diminished",
+      "abbreviation": "dim",
+      "intervals": [
+        "1",
+        "3min",
+        "5dim"
+      ]
+    },
+    "chord_diminished7": {
+      "group": "group_chords_diminished",
+      "abbreviation": "dim7",
+      "intervals": [
+        "1",
+        "3min",
+        "5dim",
+        "7dim"
+      ]
+    },
+    "chord_augmented": {
+      "group": "group_chords_augmented",
+      "abbreviation": "aug",
+      "intervals": [
+        "1",
+        "3maj",
+        "5aug"
+      ]
+    },
+    "chord_augmented7": {
+      "group": "group_chords_augmented",
+      "abbreviation": "aug7",
+      "intervals": [
+        "1",
+        "3maj",
+        "5aug",
+        "7maj"
+      ]
+    },
+    "chord_majorAdd9": {
+      "group": "group_chords_added_tone",
+      "abbreviation": "add9",
+      "intervals": [
+        "1",
+        "3maj",
+        "5",
+        "2maj"
+      ]
+    },
+    "chord_majorAdd11": {
+      "group": "group_chords_added_tone",
+      "abbreviation": "add11",
+      "intervals": [
+        "1",
+        "3maj",
+        "5",
+        "4"
+      ]
+    },
+    "chord_minorAdd9": {
+      "group": "group_chords_added_tone",
+      "abbreviation": "m add9",
+      "intervals": [
+        "1",
+        "3min",
+        "5",
+        "2maj"
+      ]
+    },
+    "chord_minorAdd11": {
+      "group": "group_chords_added_tone",
+      "abbreviation": "m add11",
+      "intervals": [
+        "1",
+        "3min",
+        "5",
+        "4"
+      ]
+    },
+    "chord_suspended2": {
+      "group": "group_chords_suspended",
+      "abbreviation": "sus2",
+      "intervals": [
+        "1",
+        "2maj",
+        "5"
+      ]
+    },
+    "chord_suspended4": {
+      "group": "group_chords_suspended",
+      "abbreviation": "sus4",
+      "intervals": [
+        "1",
+        "4",
+        "5"
+      ]
+    }
+  }
+}

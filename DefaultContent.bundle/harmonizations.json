@@ -1,0 +1,144 @@
+{
+    "harmonizations": {
+        "harmonization_1_major": {
+            "interval": "1",
+            "chord": "chord_major"
+        },
+        "harmonization_2maj_minor": {
+            "interval": "2maj",
+            "chord": "chord_minor"
+        },
+        "harmonization_3maj_minor": {
+            "interval": "3maj",
+            "chord": "chord_minor"
+        },
+        "harmonization_4_major": {
+            "interval": "4",
+            "chord": "chord_major"
+        },
+        "harmonization_5_major": {
+            "interval": "5",
+            "chord": "chord_major"
+        },
+        "harmonization_6maj_minor": {
+            "interval": "6maj",
+            "chord": "chord_minor"
+        },
+        "harmonization_7maj_diminished": {
+            "interval": "7maj",
+            "chord": "chord_diminished"
+        },
+        "harmonization_1_major7plus": {
+            "interval": "1",
+            "chord": "chord_major7plus"
+        },
+        "harmonization_2maj_minor7": {
+            "interval": "2maj",
+            "chord": "chord_minor7"
+        },
+        "harmonization_3maj_minor7": {
+            "interval": "3maj",
+            "chord": "chord_minor7"
+        },
+        "harmonization_4_major7plus": {
+            "interval": "4",
+            "chord": "chord_major7plus"
+        },
+        "harmonization_5_major7": {
+            "interval": "5",
+            "chord": "chord_major7"
+        },
+        "harmonization_6maj_minor7": {
+            "interval": "6maj",
+            "chord": "chord_minor7"
+        },
+        "harmonization_7maj_minor7dim5": {
+            "interval": "7maj",
+            "chord": "chord_minor7dim5"
+        },
+        "harmonization_1_minor": {
+            "interval": "1",
+            "chord": "chord_minor"
+        },
+        "harmonization_2maj_diminished": {
+            "interval": "2maj",
+            "chord": "chord_diminished"
+        },
+        "harmonization_3min_major": {
+            "interval": "3min",
+            "chord": "chord_major"
+        },
+        "harmonization_4_minor": {
+            "interval": "4",
+            "chord": "chord_minor"
+        },
+        "harmonization_5_minor": {
+            "interval": "5",
+            "chord": "chord_minor"
+        },
+        "harmonization_6min_major": {
+            "interval": "6min",
+            "chord": "chord_major"
+        },
+        "harmonization_7min_major": {
+            "interval": "7min",
+            "chord": "chord_major"
+        },
+        "harmonization_1_minor7": {
+            "interval": "1",
+            "chord": "chord_minor7"
+        },
+        "harmonization_2maj_minor7dim5": {
+            "interval": "2maj",
+            "chord": "chord_minor7dim5"
+        },
+        "harmonization_3min_major7plus": {
+            "interval": "3min",
+            "chord": "chord_major7plus"
+        },
+        "harmonization_4_minor7": {
+            "interval": "4",
+            "chord": "chord_minor7"
+        },
+        "harmonization_5_minor7": {
+            "interval": "5",
+            "chord": "chord_minor7"
+        },
+        "harmonization_6min_major7plus": {
+            "interval": "6min",
+            "chord": "chord_major7plus"
+        },
+        "harmonization_7min_major7": {
+            "interval": "7min",
+            "chord": "chord_major7"
+        },
+        "harmonization_3min_augmented": {
+            "interval": "3min",
+            "chord": "chord_augmented"
+        },
+        "harmonization_1_minor7plus": {
+            "interval": "1",
+            "chord": "chord_minor7plus"
+        },
+        "harmonization_3min_major7plus5sharp": {
+            "interval": "3min",
+            "chord": "chord_major7plus5sharp"
+        },
+        "harmonization_7maj_diminished7": {
+            "interval": "7maj",
+            "chord": "chord_diminished7"
+        },
+        "harmonization_6maj_diminished": {
+            "interval": "6maj",
+            "chord": "chord_diminished"
+        },
+        "harmonization_4_major7": {
+            "interval": "4",
+            "chord": "chord_major7"
+        },
+        "harmonization_6maj_minor7dim5": {
+            "interval": "6maj",
+            "chord": "chord_minor7dim5"
+        }
+    }
+}
