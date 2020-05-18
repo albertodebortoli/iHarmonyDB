@@ -105,6 +105,11 @@
         
         "scaleHarmonization_majorScale3Tones": "Major 3 tones",
         "scaleHarmonization_majorScale4Tones": "Major 4 tones",
+        "scaleHarmonization_harmonicMajorScale3Tones": "Harmonic Major 3 tones",
+        "scaleHarmonization_harmonicMajorScale4Tones": "Harmonic Major 4 tones",
+        "scaleHarmonization_melodicMajorScale3Tones": "Melodic Major 3 tones",
+        "scaleHarmonization_melodicMajorScale4Tones": "Melodic Major 4 tones",
+        
         "scaleHarmonization_minorScale3Tones": "Natural Minor 3 tones",
         "scaleHarmonization_minorScale4Tones": "Natural Minor 4 tones",
         "scaleHarmonization_harmonicMinorScale3Tones": "Harmonic Minor 3 tones",
@@ -113,6 +118,8 @@
         "scaleHarmonization_melodicMinorScale4Tones": "Melodic Minor 4 tones",
 
         "group_harmonization_major": "Major",
+        "group_harmonization_harmonic_major": "Harmonic Major",
+        "group_harmonization_melodic_major": "Melodic Major",
         "group_harmonization_natural_minor": "Natural Minor",
         "group_harmonization_harmonic_minor": "Harmonic Minor",
         "group_harmonization_melodic_minor": "Melodic Minor"
@@ -223,6 +230,11 @@
         
         "scaleHarmonization_majorScale3Tones": "Maggiore a 3 toni",
         "scaleHarmonization_majorScale4Tones": "Maggiore a 4 toni",
+        "scaleHarmonization_harmonicMajorScale3Tones": "Maggiore armonica a 3 toni",
+        "scaleHarmonization_harmonicMajorScale4Tones": "Maggiore armonica a 4 toni",
+        "scaleHarmonization_melodicMajorScale3Tones": "Maggiore melodica a 3 toni",
+        "scaleHarmonization_melodicMajorScale4Tones": "Maggiore melodica a 4 toni",
+        
         "scaleHarmonization_minorScale3Tones": "Minore naturale a 3 toni",
         "scaleHarmonization_minorScale4Tones": "Minore naturale a 4 toni",
         "scaleHarmonization_harmonicMinorScale3Tones": "Minore armonica a 3 toni",
@@ -231,6 +243,8 @@
         "scaleHarmonization_melodicMinorScale4Tones": "Minore melodica a 4 toni",
 
         "group_harmonization_major": "Maggiori",
+        "group_harmonization_harmonic_major": "Maggiori armoniche",
+        "group_harmonization_melodic_major": "Maggiori melodiche",
         "group_harmonization_natural_minor": "Minori naturale",
         "group_harmonization_harmonic_minor": "Minori armoniche",
         "group_harmonization_melodic_minor": "Minori melodiche"

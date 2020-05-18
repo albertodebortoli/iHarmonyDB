@@ -139,6 +139,34 @@
         "harmonization_6maj_minor7dim5": {
             "interval": "6maj",
             "chord": "chord_minor7dim5"
+        },
+        "harmonization_1_major7": {
+            "interval": "1",
+            "chord": "chord_major7"
+        },
+        "harmonization_6min_augmented": {
+            "interval": "6min",
+            "chord": "chord_augmented"
+        },
+        "harmonization_4_minor7plus": {
+            "interval": "4",
+            "chord": "chord_minor7plus"
+        },
+        "harmonization_6min_major7plus5sharp": {
+            "interval": "6min",
+            "chord": "chord_major7plus5sharp"
+        },
+        "harmonization_3maj_diminished": {
+            "interval": "3maj",
+            "chord": "chord_diminished"
+        },
+        "harmonization_3maj_minor7dim5": {
+            "interval": "3maj",
+            "chord": "chord_minor7dim5"
+        },
+        "harmonization_6min_augmented7": {
+            "interval": "6min",
+            "chord": "chord_augmented7"
         }
     }
 }
